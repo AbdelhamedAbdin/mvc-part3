@@ -1,0 +1,6 @@
+mysql==0.0.3
+mysql-connector-python==8.2.0
+mysqlclient==2.2.0
+pkg_resources==0.0.0
+protobuf==4.21.12
+pysqlite3-binary==0.5.2.post1
